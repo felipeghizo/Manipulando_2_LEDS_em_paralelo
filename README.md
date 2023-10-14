@@ -1,5 +1,7 @@
 # Manipulando 2 LEDS em paralelo
  Este experimento consiste em fazer com que o LED incorporado e dois LEDs pisquem alternadamente utilizando o pino digital 13 (pino digital incorporado LED_BUILTIN = 13) e o pino digital 12.  
+
+  <b><a href="https://www.tinkercad.com/things/ffEfz9tcBQC">Clique Aqui</a></b> para ver o projeto em Tinkercard.com!
  
 ## Lista de componentes:
 
@@ -8,7 +10,7 @@
 - 1  Placa de prototipação (Protoboard)
 - 2  LED 
 - 2  Resistor de 220 Ω ohms
-- 5 Jumpers (macho-macho)
+- 5  Jumpers (macho-macho)
 
 ## Esquema do projeto
 
